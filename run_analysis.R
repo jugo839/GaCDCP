@@ -1,5 +1,5 @@
 
-setwd("D:/Courses/Data Science Specialization/03. Getting and Cleaning Data/Week3/CP")
+
 
 # Download Data
 if(!file.exists("./data")){
